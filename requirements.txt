@@ -15,6 +15,8 @@ cachetools==5.3.1
 certifi==2023.7.22
 cffi==1.15.1
 charset-normalizer==3.2.0
+cleverhans==4.0.0
+cloudpickle==3.0.0
 colorama==0.4.6
 comm==0.1.4
 contourpy==1.1.0
@@ -22,6 +24,8 @@ cycler==0.11.0
 debugpy==1.7.0
 decorator==5.1.1
 defusedxml==0.7.1
+dm-tree==0.1.8
+easydict==1.11
 executing==1.2.0
 fastjsonschema==2.18.0
 flatbuffers==23.5.26
@@ -67,10 +71,12 @@ MarkupSafe==2.1.3
 matplotlib==3.7.2
 matplotlib-inline==0.1.6
 mistune==3.0.1
+mnist==0.2.2
 nbclient==0.8.0
 nbconvert==7.8.0
 nbformat==5.9.2
 nest-asyncio==1.5.7
+nose==1.3.7
 notebook==7.0.3
 notebook_shim==0.2.3
 numba==0.57.1
@@ -93,6 +99,7 @@ psutil==5.9.5
 pure-eval==0.2.2
 pyasn1==0.5.0
 pyasn1-modules==0.3.0
+pycodestyle==2.11.1
 pycparser==2.21
 Pygments==2.16.1
 pyparsing==3.0.9
@@ -127,6 +134,7 @@ tensorflow==2.13.0
 tensorflow-estimator==2.13.0
 tensorflow-intel==2.13.0
 tensorflow-io-gcs-filesystem==0.31.0
+tensorflow-probability==0.23.0
 termcolor==2.3.0
 terminado==0.17.1
 threadpoolctl==3.2.0
